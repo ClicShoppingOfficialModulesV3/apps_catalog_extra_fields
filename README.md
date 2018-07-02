@@ -22,6 +22,7 @@ Activate the module Design/products description
 
 licence  : GPL 2 - MIT
 
+See Marketplace for all informations
 Marketplace link : https://www.clicshopping.org/forum/files/file/6-apps-extra-fields/
 
 ![extrafields](https://github.com/ClicShoppingOfficialModulesV3/apps_catalog_extra_fields/blob/master/ModuleInfosJson/extrafields_admin.png)
