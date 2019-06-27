@@ -25,4 +25,16 @@ licence  : GPL 2 - MIT
 See Marketplace for all informations
 Marketplace link : https://www.clicshopping.org/forum/files/file/6-apps-extra-fields/
 
+All informations about the ClicShopping
+
+Community : https://www.clicshopping.org
+
+Software : https://github.com/ClicShopping
+
+Official add on : https://github.com/ClicShoppingOfficialModulesV3
+
+Community add on : https://github.com/ClicShoppingV3Community
+
+trademark License info : https://www.clicshopping.org/forum/trademark/
+
 ![extrafields](https://github.com/ClicShoppingOfficialModulesV3/apps_catalog_extra_fields/blob/master/ModuleInfosJson/extrafields_admin.png)
