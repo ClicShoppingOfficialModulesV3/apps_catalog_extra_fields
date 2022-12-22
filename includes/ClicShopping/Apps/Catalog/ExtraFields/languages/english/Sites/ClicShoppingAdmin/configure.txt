@@ -1,0 +1,3 @@
+module_qd_short_title = Products extra fields
+button_add = Extra fields
+button_back = Back

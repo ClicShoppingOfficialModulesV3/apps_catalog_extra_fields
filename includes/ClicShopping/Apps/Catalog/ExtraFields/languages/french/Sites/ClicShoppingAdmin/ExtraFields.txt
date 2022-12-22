@@ -1,0 +1,28 @@
+heading_title = Ajout de champs supplémentaires fiche produits
+subheading_title = Ajouter un nouveau champs
+
+heading_title_insert = Insertion du nom du champs supplémentaire
+heading_title_modifiy = Modifier un champs
+
+table_heading_id_fields = Id Champs
+table_heading_delete_fields = Suppression
+table_heading_fields = Nom du champs
+table_heading_fields_type = Type de champs
+table_heading_customers_group = Groupe Client
+
+table_heading_order = Ordre de tri
+table_heading_language = Language
+table_heading_status_display = Statut d'affichage catalogue
+
+text_help_wysiwyg = wysiwyg
+text_all_languages = Tous
+entry_text = Champs texte simple (court)
+entry_text_area = Champs descriptif (long)
+entry_text_checkbox = Case à cocher
+
+title_help_options = Aide sur l'ajout de champs supplémentaire
+text_help_options = <li>L'affichage en mode B2B (hors client normal) permet de voir tous les champs qui ont été créés  pour un client normal dans la fiche de produit</li>
+
+button_insert = Inserer
+button_update = Mettre à jour
+button_remove = Supprmer

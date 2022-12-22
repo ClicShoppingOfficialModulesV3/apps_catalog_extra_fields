@@ -1,0 +1,2 @@
+module_products_info_extra_fields_title = Souhaitez-vous afficher une description avec des champs supplémentaires ?
+module_products_info_extra_fields_description = Affiche une description avec des champs supplémentaire dans la fiche produit

@@ -1,0 +1,12 @@
+tab_extra_fields = Champs complémentaires
+text_extra_fields = Extra Fields
+icon_edit_customers_group = groupe clients
+visitor_name = Client normal
+
+display_checkbox = Afficher la case à cocher
+no_display_checkbox = Ne pas afficher la case à cocher
+
+title_help_options = Aide sur l'ajout de champs supplémentaire
+help_options = <li>L'affichage en mode B2B (hors client normal) permet de voir tous les champs qui ont été créés  pour un client normal dans la fiche de produit</li>
+
+text_help_wysiwyg = Help wysiwyg

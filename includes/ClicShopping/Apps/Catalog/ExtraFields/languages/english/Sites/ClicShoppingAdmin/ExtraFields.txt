@@ -1,0 +1,28 @@
+heading_title = Product Extra Fields
+subheading_title = Add a new field
+
+heading_title_insert = Insert a new field
+heading_title_modify = Modify the field
+
+table_heading_id_fields = Id field
+table_heading_delete_fields = Delete
+table_heading_fields = Field Name
+table_heading_fields_type = Fied type
+table_heading_customers_group = Customer group
+
+table_heading_order = Sort Order
+table_heading_language = Language
+table_heading_status_display = Catalog status display
+
+text_help_wysiwyg = wysiwyg
+text_all_languages = All
+entry_text = Simple text field (short)
+entry_text_area = Description field (long)
+entry_text_checkbox = Checkbox
+
+title_help_options = Help on the add field
+text_help_options = <li>In mode B2B (without new client) allow to see all the fields created for a new client in the description product</li>
+
+button_insert = insert
+button_update = Update
+button_remove = Delete

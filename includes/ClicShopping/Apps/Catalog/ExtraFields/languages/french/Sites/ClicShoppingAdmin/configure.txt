@@ -1,0 +1,3 @@
+module_qd_short_title = Champs complémentaires
+button_add = Champs complémentaires
+button_back = Retour

@@ -1,0 +1,11 @@
+tab_extra_fields = Extra Fields
+text_extra_fields = Extra Fields
+icon_edit_customers_group = Customers group
+visitor_name = Normal client
+
+display_checkbox = Display checkbox
+no_display_checkbox = No Display checkbox
+
+title_help_options = Help on the add field
+help_options = <li>In mode B2B (without new client) allow to see all the fields created for a new client in the description product</li>
+text_help_wysiwyg = Help wysiwyg
